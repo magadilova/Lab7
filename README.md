@@ -20,4 +20,5 @@
 
 
 java -jar (server)
+
 java -jar (client) localhost 50005
